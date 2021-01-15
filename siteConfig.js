@@ -1,9 +1,13 @@
 module.exports = {
-  name: 'London',
-  shortName: 'London',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-london.netlify.com', // Domain of your site without prefix!
+  name: 'Landman Lounge',
+  shortName: 'Landman Lounge',
+  description: 'Step into my lounge. ',
+  url: 'lanmdanlounge.com', 
   prefix: '/',
-  author: 'Imed Adel',
-  twitter: 'Imed_Adel'
+  author: 'Nathan Landman',
+  twitter: 'Ranicket',
+  linkedin: 'https://www.linkedin.com/in/nathanlandman/',
+  substack: 'landmanlounge.substack.com',
+  instagram: 'natelandy',
+  github: 'landmann'
 }
